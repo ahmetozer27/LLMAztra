@@ -1,0 +1,5 @@
+torch>=2.7.1+cu128
+transformers>=4.40.0
+tokenizers>=0.18.0
+datasets>=2.18.0
+tqdm
